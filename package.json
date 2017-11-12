@@ -1,7 +1,7 @@
 {
-    "name": "weex",
-    "version": "1.0.0",
-    "description": "A weex project",
+    "name": "AJWeexComponents",
+    "version": "0.0.1",
+    "description": "A weex components",
     "main": "../index.js",
     "scripts": {
         "start": "npm run serve",
@@ -10,10 +10,14 @@
         "dev": "webpack --config webpack.config.js --watch",
         "serve": "webpack-dev-server --config webpack.dev.js --progress --watch --open"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/aijun198600/AJWeexComponents.git"
+    },
     "keywords": [
         "weex"
     ],
-    "author": "",
+    "author": "aijun",
     "license": "MIT",
     "dependencies": {
         "fs-extra": "^4.0.1",
