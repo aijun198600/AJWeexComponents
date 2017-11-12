@@ -1,0 +1,5 @@
+XSym
+0060
+2161b926f218a37155e01221599a87f2
+../../../../WeexSDK/WeexSDK.framework/Headers/WXSDKManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

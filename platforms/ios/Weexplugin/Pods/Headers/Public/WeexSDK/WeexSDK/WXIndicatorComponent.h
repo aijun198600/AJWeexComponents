@@ -1,0 +1,5 @@
+XSym
+0068
+1dbfedd498568382a6f6b962dba365c6
+../../../../WeexSDK/WeexSDK.framework/Headers/WXIndicatorComponent.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

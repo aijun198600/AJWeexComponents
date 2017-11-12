@@ -1,0 +1,5 @@
+XSym
+0069
+98a7737b69402a38ed15cf378bcd26c7
+../../../../WeexSDK/WeexSDK.framework/Headers/WXEventModuleProtocol.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

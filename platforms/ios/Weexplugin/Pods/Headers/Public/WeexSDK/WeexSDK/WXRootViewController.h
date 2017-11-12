@@ -1,0 +1,5 @@
+XSym
+0068
+56765eb7ed74e0c8c964725fcc28696e
+../../../../WeexSDK/WeexSDK.framework/Headers/WXRootViewController.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

@@ -1,0 +1,5 @@
+XSym
+0064
+f99638dd246c27b90d781c86e5ffd80d
+../../../../WeexSDK/WeexSDK.framework/Headers/WXBridgeProtocol.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

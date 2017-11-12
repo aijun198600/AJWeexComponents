@@ -1,0 +1,5 @@
+XSym
+0063
+d70645441aca1548a29a9aeb7034f08a
+../../../../WeexSDK/WeexSDK.framework/Headers/WXBridgeManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

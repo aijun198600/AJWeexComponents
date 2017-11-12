@@ -1,0 +1,5 @@
+XSym
+0065
+9c054f85f9c09e858009f4ec05191972
+../../../../WXDevtool/TBWXDevTool.framework/Headers/TBWXDevTool.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

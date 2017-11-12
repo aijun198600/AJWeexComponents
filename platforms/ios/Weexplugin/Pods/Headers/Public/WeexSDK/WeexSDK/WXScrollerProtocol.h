@@ -1,0 +1,5 @@
+XSym
+0066
+0cc53bf5fd03b804a736a8bc5957e1c6
+../../../../WeexSDK/WeexSDK.framework/Headers/WXScrollerProtocol.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

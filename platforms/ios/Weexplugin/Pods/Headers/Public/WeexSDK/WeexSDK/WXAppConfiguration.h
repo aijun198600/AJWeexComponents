@@ -1,0 +1,5 @@
+XSym
+0066
+a652f36566a91755f805e999be943120
+../../../../WeexSDK/WeexSDK.framework/Headers/WXAppConfiguration.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
