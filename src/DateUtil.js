@@ -155,4 +155,4 @@ var DateUtil = {
 
 };
 
-export default DateUtil;
+module.exports = DateUtil;
