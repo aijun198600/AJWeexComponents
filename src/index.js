@@ -4,5 +4,17 @@
 
 import DateUtil from './DateUtil'
 
+const components = {
 
-export {DateUtil}
+};
+
+const utils = {
+    DateUtil
+};
+
+const API = {
+    ...components,
+    ...utils
+};
+
+module.export.default = module.exports = API;
