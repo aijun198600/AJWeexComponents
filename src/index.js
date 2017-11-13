@@ -17,4 +17,4 @@ const API = {
     ...utils
 };
 
-module.export.default = module.exports = API;
+module.exports.default = module.exports = API;
