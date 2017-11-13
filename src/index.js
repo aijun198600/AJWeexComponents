@@ -27,11 +27,17 @@ if (typeof window !== 'undefined' && window.Vue) {
     install(window.Vue);
 }
 
-const API = {
+let API = {
     version: '0.0.15',
-    install,
-    ...components,
-    ...utils
+    install
 };
+
+Object.keys(components).forEach(key => {
+    API[key] = components[key];
+});
+
+Object.keys(utils).forEach(key => {
+    API[key] = utils[key];
+});
 
 export default API;
