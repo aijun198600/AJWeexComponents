@@ -1,10 +1,9 @@
 {
     "name": "ajweexcomponents",
-    "version": "0.0.9",
+    "version": "0.0.10",
     "description": "A weex components",
     "main": "src/index.js",
     "files": [
-        "dist",
         "src"
     ],
     "scripts": {
