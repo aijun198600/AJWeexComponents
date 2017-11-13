@@ -16,7 +16,7 @@ const utils = {
 const API = {
     DateUtil:DateUtil,
 
-    BaseButton:BaseButton
+    BaseButton:require('./v-base-button.vue')
 };
 
 export default API;
