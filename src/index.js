@@ -9,13 +9,11 @@ const components = {
 };
 
 const utils = {
-    DateUtil
+
 };
 
 const API = {
-    ...components,
-    ...utils
+    DateUtil:DateUtil
 };
 
-// export {DateUtil};
-module.exports.DateUtil = DateUtil;
+module.exports = API;
