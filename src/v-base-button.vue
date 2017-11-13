@@ -1,5 +1,5 @@
 <template>
-    <div class=".base-button">
+    <div class="base-button">
     </div>
 </template>
 
