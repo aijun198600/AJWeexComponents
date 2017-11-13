@@ -13,7 +13,7 @@ const utils = {
 };
 
 const API = {
-    DateUtil:DateUtil
+    DateUtil:DateUtil,
 };
 
 export default API;
