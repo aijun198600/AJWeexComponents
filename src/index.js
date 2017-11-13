@@ -17,4 +17,4 @@ const API = {
     ...utils
 };
 
-module.exports = {DateUtil};
+export {DateUtil};
